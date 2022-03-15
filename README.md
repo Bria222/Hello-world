@@ -2,14 +2,10 @@
 
 # Hello-world
 
-
-
-
 ## Built With
 
 - html
 - css
-
 
 ## Getting Started
 
@@ -17,12 +13,7 @@ To get a local copy up and running follow these simple example steps.
 
 # create a directory on your local machine 
 ## clone the repository
-# https://github.com/Bria222/Hello-world
-
-
-
-
-
+## https://github.com/Bria222/Hello-world
 
 ## Authors
 
